@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aula4CarroApp</string>
+
+    <string-array name="cores_array">
+        <item>Branco</item>
+        <item>Preto</item>
+        <item>Vinho</item>
+        <item>Amarelo</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="estados_array">
+        <item>Novo</item>
+        <item>Semi novo</item>
+        <item>Conservado</item>
+        <item>Não Sabe</item>
+    </string-array>
+</resources>
