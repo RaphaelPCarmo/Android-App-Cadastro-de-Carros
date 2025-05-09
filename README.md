@@ -60,8 +60,11 @@ Este projeto foi criado com fins educacionais para praticar:
 Este projeto é apenas para fins educacionais e não possui licença comercial.
 Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
+
 ## 👤 Criado por
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dragon_icon.svg/2048px-Dragon_icon.svg.png" width="120" style="border-radius: 50%"><br>
-<strong>Raphael Perim do Carmo</strong>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dragon_icon.svg/2048px-Dragon_icon.svg.png" width="100">
+
+**Raphael Perim do Carmo**
+
 
