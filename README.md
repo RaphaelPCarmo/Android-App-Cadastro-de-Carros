@@ -63,7 +63,7 @@ Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
 ## 👤 Criado por
 
-<img src="https://github.com/seuusuario.png" width="120" style="border-radius: 50%"><br>
+<img src="https://github.com/RaphaelPCarmo.png" width="120" style="border-radius: 50%"><br>
 <strong>Raphael Perim do Carmo</strong>
 
 
