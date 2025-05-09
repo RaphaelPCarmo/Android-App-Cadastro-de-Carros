@@ -63,7 +63,7 @@ Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
 ## 👤 Criado por
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dragon_icon.svg/2048px-Dragon_icon.svg.png" width="100">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/dragon/dragon.png" width="120">
 
 **Raphael Perim do Carmo**
 
