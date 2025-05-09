@@ -63,7 +63,7 @@ Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
 ## 👤 Criado por
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/dragon/dragon.png" width="120">
+<img src="images/dragon.png" width="120">
 
 **Raphael Perim do Carmo**
 
