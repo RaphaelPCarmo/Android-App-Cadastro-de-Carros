@@ -36,12 +36,9 @@ Dispositivo ou emulador com Android API 21 (Lollipop) ou superior
 
 🚀 Como Executar o Projeto
 Clone este repositório:
+-git clone https://github.com/seuusuario/nome-do-repositorio.git
 
-bash
-Copiar
-Editar
-git clone https://github.com/seuusuario/nome-do-repositorio.git
-Abra o projeto no Android Studio
+-Abra o projeto no Android Studio
 
 Execute em um dispositivo físico ou emulador com API 21+
 
