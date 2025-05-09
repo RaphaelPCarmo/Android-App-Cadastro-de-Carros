@@ -61,5 +61,5 @@ Este projeto é apenas para fins educacionais e não possui licença comercial.
 Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
 
 👤 Criado por
-<img src="https://github.com/RaphaelPCarmo.png" width="120" style="border-radius: 50%"><br>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=P1bKiEV1&id=18BAF156A82B98DEAC3BF1BF899130AEACEE700B&thid=OIP.P1bKiEV1qRSvFgjCx0OVowHaEK&mediaurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe0%2Fb6%2F19%2Fe0b619bb4def29cc007fba6c9b74cf99.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.3f56ca884575a914af1608c2c74395a3%3Frik%3DC3DurK4wkYm%252f8Q%26pid%3DImgRaw%26r%3D0&exph=2160&expw=3840&q=imagem+carro+para+github&simid=608004311747214237&form=IRPRST&ck=340BD913CFCB7B8F849516D4A9CBB0B9&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11.png" width="120" style="border-radius: 50%"><br>
 <strong>Raphael Perim do Carmo</strong>
