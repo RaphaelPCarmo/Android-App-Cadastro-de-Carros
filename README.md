@@ -39,7 +39,7 @@ Estado de Conservação
 🚀 Como Executar o Projeto
 Clone este repositório:
 
-bash
+get bash;
 Copiar
 Editar
 git clone https://github.com/seuusuario/nome-do-repositorio.git
