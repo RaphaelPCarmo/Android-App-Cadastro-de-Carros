@@ -37,6 +37,8 @@ An Android application created for educational purposes that allows users to reg
 • Clone the repo:
 ```bash
 git clone https://github.com/seuusuario/vehicle-manager-app.git
+```
+
 Open the project using Android Studio
 
 • Run on a physical device or emulator with API 21 (Lollipop) or higher
