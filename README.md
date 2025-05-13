@@ -1,51 +1,43 @@
-🚗 Vehicle Manager App - A simple vehicle management application for Android
+# 🚗 Vehicle Manager App - A simple vehicle management application for Android
+
 An Android application created for educational purposes that allows users to register and manage vehicle information locally using Java. It provides a user-friendly interface with dropdowns, list views, and real-time local data handling.
 
-Built with
+### Built with
 
-
+ * ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ * ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+ * ![XML](https://img.shields.io/badge/XML-007ACC?style=for-the-badge)
 
 <h2> ✨ Features </h2>
-Vehicle registration with the following details:
 
-🚘 License Plate
+- Vehicle registration with the following details:
+  - 🚘 License Plate  
+  - 🚗 Model  
+  - 🎨 Color (e.g., White, Black, Yellow...)  
+  - 🏷️ Year of Manufacture  
+  - 🔧 Condition (New, Semi-new, Conserved, Unknown)  
 
-🚗 Model
+- Friendly and simple interface:
+  - 📝 Input fields for vehicle data  
+  - 🔄 Dropdowns (Spinners) for Color and Condition  
 
-🎨 Color (e.g., White, Black, Yellow...)
-
-🏷️ Year of Manufacture
-
-🔧 Condition (New, Semi-new, Conserved, Unknown)
-
-Friendly and simple interface:
-
-📝 Input fields for vehicle data
-
-🔄 Dropdowns (Spinners) for Color and Condition
-
-Vehicle list management:
-
-📋 Display registered vehicles using ListView
-
-➕ "Add" button to include a new vehicle
-
-➖ "Delete" button to remove selected vehicle
+- Vehicle list management:
+  - 📋 Display registered vehicles using ListView  
+  - ➕ "Add" button to include a new vehicle  
+  - ➖ "Delete" button to remove selected vehicle  
 
 <h2> 📸 Preview </h2>
-(Add your screenshots here)
-For example:
-<img src="preview1.png" width="300">
-<img src="preview2.png" width="300">
+
+<!-- Substitua os links abaixo pelos seus prints do app -->
+<img src="preview1.png" style="width: 400px;">
+<img src="preview2.png" style="width: 400px;">
 
 <h2> 🚀 Getting Started </h2>
-• Clone the repo:
 
-bash
-Copiar
-Editar
+• Clone the repo:
+```bash
 git clone https://github.com/seuusuario/vehicle-manager-app.git
-• Open the project using Android Studio
+Open the project using Android Studio
 
 • Run on a physical device or emulator with API 21 (Lollipop) or higher
 
