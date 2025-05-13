@@ -26,12 +26,6 @@ An Android application created for educational purposes that allows users to reg
   - ➕ "Add" button to include a new vehicle  
   - ➖ "Delete" button to remove selected vehicle  
 
-<h2> 📸 Preview </h2>
-
-<!-- Substitua os links abaixo pelos seus prints do app -->
-<img src="preview1.png" style="width: 400px;">
-<img src="preview2.png" style="width: 400px;">
-
 <h2> 🚀 Getting Started </h2>
 
 • Clone the repo:
