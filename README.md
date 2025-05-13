@@ -1,69 +1,67 @@
-🚗 Vehicle Manager App (Android)
-<img src="https://img.shields.io/badge/Plataforma-Android-brightgreen?style=for-the-badge&logo=android"> <img src="https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Linguagem-Java-orange?style=for-the-badge&logo=java"> <br>
-Um aplicativo Android simples para cadastrar e gerenciar informações de veículos.
-Os dados são armazenados localmente na memória, sendo ideal para estudos, práticas e demonstrações de manipulação de dados no Android.
+🚗 Vehicle Manager App - A simple vehicle management application for Android
+An Android application created for educational purposes that allows users to register and manage vehicle information locally using Java. It provides a user-friendly interface with dropdowns, list views, and real-time local data handling.
 
-📱 Funcionalidades
-🔹 Cadastro de Veículos
-🚘 Placa
+Built with
 
-🚗 Modelo
 
-🎨 Cor (Branco, Preto, Vinho, Amarelo, etc.)
 
-🏷️ Ano de Fabricação
+<h2> ✨ Features </h2>
+Vehicle registration with the following details:
 
-🔧 Estado de Conservação (Novo, Semi-novo, Conservado, Não sabe)
+🚘 License Plate
 
-🔹 Interface Intuitiva
-📝 Activity com campos de entrada para os dados do veículo
+🚗 Model
 
-🔄 Spinners para selecionar:
+🎨 Color (e.g., White, Black, Yellow...)
 
-Cor
+🏷️ Year of Manufacture
 
-Estado de Conservação
+🔧 Condition (New, Semi-new, Conserved, Unknown)
 
-🔹 Gerenciamento de Veículos
-📋 ListView para exibir a lista de veículos cadastrados
+Friendly and simple interface:
 
-➕ Botão "Incluir" para adicionar veículo
+📝 Input fields for vehicle data
 
-➖ Botão "Excluir" para remover veículo selecionado
+🔄 Dropdowns (Spinners) for Color and Condition
 
-⚙️ Requisitos
-✅ Android Studio
+Vehicle list management:
 
-✅ Dispositivo ou emulador com Android API 21 (Lollipop) ou superior
+📋 Display registered vehicles using ListView
 
-🚀 Como Executar o Projeto
-Clone este repositório:
+➕ "Add" button to include a new vehicle
 
-get bash;
+➖ "Delete" button to remove selected vehicle
+
+<h2> 📸 Preview </h2>
+(Add your screenshots here)
+For example:
+<img src="preview1.png" width="300">
+<img src="preview2.png" width="300">
+
+<h2> 🚀 Getting Started </h2>
+• Clone the repo:
+
+bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/nome-do-repositorio.git
-Abra o projeto no Android Studio.
+git clone https://github.com/seuusuario/vehicle-manager-app.git
+• Open the project using Android Studio
 
-Execute em um dispositivo físico ou emulador com API 21+.
+• Run on a physical device or emulator with API 21 (Lollipop) or higher
 
-📚 Objetivo do Projeto
-Este projeto foi criado com fins educacionais para praticar:
+<h2> 🎯 Purpose of the Project </h2>
+This app was developed for educational purposes with the aim to:
 
-💾 Manipulação de dados locais na memória
+💾 Practice local data storage
 
-📑 Uso de ListView, Spinners e Activities no Android
+📑 Learn how to use ListView, Spinners, and Activities
 
-🗂️ Gerenciamento de listas em aplicativos Android simples
+🧩 Understand list manipulation and simple app logic in Android
 
-📝 Licença
-Este projeto é apenas para fins educacionais e não possui licença comercial.
-Sinta-se à vontade para estudar, modificar e compartilhar! 🚀
+<h2> 📝 License </h2>
+This project is intended for learning and personal development.
+Feel free to study, modify, and share it! 🚀
 
-
-## 👤 Criado por
-
+<h2> 👤 Created by </h2>
 <img src="https://github.com/RaphaelPCarmo.png" width="120" style="border-radius: 50%"><br>
 <strong>Raphael Perim do Carmo</strong>
-
-
